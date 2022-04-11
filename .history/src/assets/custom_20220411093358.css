@@ -1,0 +1,15 @@
+body {
+padding: 100px;
+text-align: center;
+}
+img {
+    max-height: 250px;
+    margin: auto;
+    marg
+}
+.title {
+    font-size: 48px;
+}
+.red {
+    color: red;
+}

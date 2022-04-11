@@ -1,0 +1,11 @@
+body {
+padding: 100px;
+text-align: center;
+}
+img {
+    max-height: 300px;
+    margin: auto;
+}
+.red {
+    color: re;
+}
